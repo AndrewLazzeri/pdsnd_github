@@ -2,10 +2,10 @@
 1/18/2020
 
 ### Project Title
-Replace the Project Title
+A Lazzeri Git Control Project
 
 ### Description
-Describe what your project is about and what it does
+This project is designed to vet my git control skills for Udacity
 
 ### Files used
 Include the files used
