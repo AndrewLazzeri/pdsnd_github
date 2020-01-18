@@ -8,7 +8,7 @@ A Lazzeri Git Control Project
 This project is designed to vet my git control skills for Udacity
 
 ### Files used
-Include the files used
+Currently using README.md only
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+The original files sourced from the Git Hub Project repository (https://github.com/udacity/pdsnd_github) Big thanks to Udacity for teaching me git control.  Also big shout out to my awesome mentor Ramya!
