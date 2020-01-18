@@ -15,3 +15,6 @@ The original files sourced from the Git Hub Project repository (https://github.c
 
 ## Additional Notes Re: My Experience
 Fellow developers, this is my first use of version control on Git Hub so please be patient with me!
+
+## Additional Notes Re: Project Enhancements
+Please feel free to suggest enhancements to the project
